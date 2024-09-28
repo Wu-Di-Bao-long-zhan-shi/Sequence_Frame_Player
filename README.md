@@ -1,6 +1,7 @@
 # Sequence_Frame_Player
 序列帧播放器可以查看并播放序列帧图像
 
+由于文件体积过大，请移步蓝奏云下载
 蓝奏云地址：
 https://wwfa.lanzouo.com/b007sy14fg
 密码:3hn5
@@ -25,6 +26,7 @@ https://wwfa.lanzouo.com/b007sy14fg
 
 宽表示从左往右分割图片
 高表示从上往下分割图片
+
 
 
 # 题外话
