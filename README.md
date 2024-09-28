@@ -1,0 +1,2 @@
+# Sequence_Frame_Player
+序列帧播放器可以查看并播放序列帧图像
