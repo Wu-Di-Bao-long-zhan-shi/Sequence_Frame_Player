@@ -10,7 +10,8 @@ https://wwfa.lanzouo.com/b007sy14fg
 
 程序图片
 
-![image](https://github.com/user-attachments/assets/71672e9d-9aa6-4766-8237-624d5251bb58)
+![image](https://github.com/user-attachments/assets/3a24fa94-7acd-4dc2-b073-6651a4da95d7)
+
 
 
 
